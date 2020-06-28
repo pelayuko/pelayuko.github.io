@@ -1,27 +1,26 @@
-title: Derrick Wells – Independent Product Designer
+title: Javier Pelayo's blog
 logo:  # you can add own logo.
-description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
+description: Husband, father and engineer... lover of clean code and passionate about technology. This will be my space to put my overthinking about multiple topics ;)
+#baseurl: "/pelayuko.github.io" # the subpath of your site, e.g. /blog
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
-  name: Derrick Wells
-  image: '/assets/img/01.jpg'
-  job: Independent Product Designer
-  bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-  email: forexample@website.com
+  name: Javier Pelayo
+  image: '/assets/img/Adidas Global IT_ 1365.jpg'
+  job: Software engineer
+  bio: Husband, father and engineer... lover of clean code and passionate about technology. This will be my space to put my overthinking in paper ;) 
+  email: jpelayo2008@gmail.com
 
 
 # Contact links
 contact:
   - name: Twitter
-    link: https://twitter.com/
-  - name: Facebook
-    link: https://facebook.com/
-  - name: Instagram
-    link: https://instagram.com/
+    link: https://twitter.com/jpelayogil
+  - name: Linkedin
+    link: https://www.linkedin.com/in/javier-pelayo-gil-7481b322/
 
 
 # Comment Section (Disqus)
