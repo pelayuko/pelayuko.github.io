@@ -2,19 +2,13 @@
 layout: page
 title: About
 permalink: /about/
-image: '/assets/img/about-picture.jpg'
+image: '/assets/img/about-picture.JPG'
 ---
 
-Hi, my name is Derrick Wells. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies.
+Hi, my name is Javier Pelayo, born in Zaragoza, Spain.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity.
+I've been Java developer the most part of my career, lately pivoting into engineering management. I am passionate about clean code and devops principle. During the latest years working more as platform engineer, especialist in event driven architectures and streaming as integration patterns.
 
-***
+On the personal note, I am lucky of having multiple topics that I try to squeeze on my spare time: cycling, going to the mountain, soccer (c'mon Real Zaragoza), videogames, tv shows.... quite restless.
 
-> Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
-
-***
-
-Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing. Holistically pontificate installed base portals after maintainable products.
-
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric "outside the box" thinking. Completely pursue scalable customer service through sustainable potentialities.
+I love to keep learning :)
