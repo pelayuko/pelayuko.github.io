@@ -17,8 +17,8 @@ First of all, some background about me that will contextualize the analogy: I ha
 
 Second, the foundations about communication. As we learn in school, communication consist on sender, channel and recipient. And, for the sake of simplification, it has two flavours:
 
-- **Synchronous**: where the sender needs to be the recipient actively receiving the information and typically waits for acknowledge.
-- **Asynchronous**: the sender deposits the information on the channel and the recipient will eventually process it.
+* **Synchronous**: where the sender needs to be the recipient actively receiving the information and typically waits for acknowledge.
+* **Asynchronous**: the sender deposits the information on the channel and the recipient will eventually process it.
 
 Data integration in IT, in essence, is the investment that the company put to gain efficiency, stability and enable value in the interaction of the different IT systems. Not having systems properly interconnected could lead to business disruptions, inefficiencies and slowness. Also, not being able to convert information into value. What are the most valuable information systems in the company? The employees, the humans, they store the most important knowledge for the enterprise. If the interface to exchange information to take decision is miss-functional... most likely it will have implications on the overall functions. Why the companies don't make the investment in improving communication proportional to that fact? 
 
@@ -28,16 +28,16 @@ In any case, I consider that companies could invest more on it; not by adding mo
 
 I see two main reasons to take care of it
 
-- **Talent retention**: engineers hate meetings, analytical people loves focus time and hate waste
-- **Scalability**: you need to hire engineers to be a digital company, if the communication flow is not healthy, it can become the bottleneck of scalability. i.e: needs 4 meetings to synchronise one change in a system
+* **Talent retention**: engineers hate meetings, analytical people loves focus time and hate waste
+* **Scalability**: you need to hire engineers to be a digital company, if the communication flow is not healthy, it can become the bottleneck of scalability. i.e: needs 4 meetings to synchronise one change in a system
 
 ## One email not responded
 
 Sound harmless, right? Yes, it is, we are humans and we must be allowed in the imperfection. But the problem comes when it is systematic with some people who handle mail in "best-effort mode". Implicitly, they are degrading emails as 2nd class channel, diminishing its credibility. In other words, next time, instead of sending an email I will open you a chat or I will arrange a meeting in order to make sure that I am transacting the information. And this the first time that we can visit the nature of the different channels
 
-- Mail - async
-- Messaging  - typically async
-- Meeting - sync
+* Mail - async
+*  Messaging  - typically async
+*  Meeting - sync
 
 In other words, the culture of not responding emails leads to more meetings, and this isn't a joke, engineers leave companies due to the avalanche of meetings.
 
@@ -47,7 +47,7 @@ Following the analogy with data integration, real time integration is prevailing
 
 In order to minimize the humungous amount of emails, "chats from the future" tools like Slack or Teams are supposed to replace big part of the email exchange. Actually, the main commercial claim is: "start the adoption of younameit to minimize the overwhelming amount of emails!". Not bad idea as concept: native concept of thread, modern in the conception, friendliness and tons of gifs. But, the reality says that, if you don't put some guardrails about the usage of this tools, you are moving the same problem to another place. You will have millions of notifications that will eventually ignored, or muted if you want to dress elegant.
 
-Actually, there's no consensus if messaging tools should be considered as synchronous, semi-synchronous or async. The engineering mindset is moving to the extreme on this regard with this line of thought  [https://www.nohello.com/](https://www.nohello.com/) . I personally don't see that bad the human protocol of politeness.
+Actually, there's no consensus if messaging tools should be considered as synchronous, semi-synchronous or async. The engineering mindset is moving to the extreme on this regard with this line of thought with [nohello](https://www.nohello.com/) . I personally don't see that bad the human protocol of politeness.
 
 If we consider it as an asynchronous way of communication, I see more natural de old but functional concept of inbox,  where new items pile at the top to be processed.
 
@@ -57,16 +57,16 @@ In IT, typically when you want to scale a system, you try to decrease the level 
 
 Nowadays, that the companies wants to be more digital and they are hiring more and more engineers to achieve this objective, being aware of it is important. The basic hints to take into consideration the asynchronous working model:
 
-- Usage of collaborative documentation tools, documentation before communication
-- Consolidation communication channels
-- Guidelines for using meetings: define agenda, purpose, actions, invite only needed people (...)
-- Guidelines for using emails: be clear on the purpose (inform, request action, request information...)
+* Usage of collaborative documentation tools, documentation before communication
+* Consolidation communication channels
+* Guidelines for using meetings: define agenda, purpose, actions, invite only needed people (...)
+* Guidelines for using emails: be clear on the purpose (inform, request action, request information...)
 
 Opensource movement can be a good reference about it, it started already distributed and async, and they are quite mature on creating software minimising the synchronisation points.
 
 ## Co-location
 
-In any digital transformation of any company... agile transformation came with it, and this included the agile manifesto [https://agilemanifesto.org/iso/en/principles.html](https://agilemanifesto.org/iso/en/principles.html) . Let's revisit this statement "
+In any digital transformation of any company... agile transformation came with it, and this included the [agile manifesto](https://agilemanifesto.org/iso/en/principles.html) . Let's revisit this statement "
 
 > The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
 
@@ -76,8 +76,8 @@ Obviously, this statement is quite outdated already, bearing in min how fast thi
 
 My take on this, that there are two fundamental factors that are crucial to determine the importance of co-location:
 
-- **Type of work**: it is not same a creative process - that might require rapid interactions in the iterative process to improve the result -  than one analytical process that requires focus.
-- **Scope**: co-location in limited scope (team working on the same product) where rapid interaction is needed.
+* **Type of work**: it is not same a creative process - that might require rapid interactions in the iterative process to improve the result -  than one analytical process that requires focus.
+* **Scope**: co-location in limited scope (team working on the same product) where rapid interaction is needed.
 
 Also, are planned war rooms something from the past now that we observability capabilities to anticipate and alarm about the issues?
 
